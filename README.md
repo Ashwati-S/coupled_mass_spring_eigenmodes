@@ -1,0 +1,1 @@
+Developed computational models for coupled oscillatory systems and quantum eigenmode analysis. Simulated multi-body dynamics under varying initial conditions and computed eigenstates of smooth and near-square potential wells, demonstrating numerical stability and physical consistency.
